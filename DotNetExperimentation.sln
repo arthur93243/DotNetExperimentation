@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleAssignmentAndDeconstru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMarkSample", "BenchMarkSample\BenchMarkSample.csproj", "{86E2A1E5-6891-4413-BC84-34BFE6DC7318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionLifetimeSample", "DependencyInjectionLifetimeSample\DependencyInjectionLifetimeSample.csproj", "{01C93AFC-C67C-4978-95D9-8EB9FCD1CDEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{86E2A1E5-6891-4413-BC84-34BFE6DC7318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E2A1E5-6891-4413-BC84-34BFE6DC7318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E2A1E5-6891-4413-BC84-34BFE6DC7318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C93AFC-C67C-4978-95D9-8EB9FCD1CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C93AFC-C67C-4978-95D9-8EB9FCD1CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C93AFC-C67C-4978-95D9-8EB9FCD1CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C93AFC-C67C-4978-95D9-8EB9FCD1CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
