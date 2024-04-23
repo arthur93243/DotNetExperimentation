@@ -1,0 +1,32 @@
+.DS_Store
+*.sublime-workspace
+.idea/
+bin/
+obj/
+.vs/
+dist/
+.vscode/
+LocalFlow/
+
+*.DotSettings.*
+
+.env
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# archive
+*.zip
+
+# logs
+*.log
+
+coverage
+node_modules
+.DS_Store
+*.log
+*.gz
+*.swp
+*~
