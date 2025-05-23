@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDBLowLevelAPI", "Dyna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsPractice", "AlgorithmsPractice\AlgorithmsPractice.csproj", "{BD3F72D1-A2C8-4AAF-88C5-7A4DC9BC1839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutInParameterSample", "RefOutInParameterSample\RefOutInParameterSample.csproj", "{F195058F-0B93-40EA-ABFB-E4D953D05869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{BD3F72D1-A2C8-4AAF-88C5-7A4DC9BC1839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD3F72D1-A2C8-4AAF-88C5-7A4DC9BC1839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD3F72D1-A2C8-4AAF-88C5-7A4DC9BC1839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F195058F-0B93-40EA-ABFB-E4D953D05869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195058F-0B93-40EA-ABFB-E4D953D05869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195058F-0B93-40EA-ABFB-E4D953D05869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195058F-0B93-40EA-ABFB-E4D953D05869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
